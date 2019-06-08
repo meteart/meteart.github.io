@@ -5,7 +5,7 @@ Hey，我是Eason，男生一枚，进化程度不明，多出没于[博客](htt
 
 职业是学生，目前在上海师范大学第三附属实验学校就读。
 
-一些学习作品和开源项目，👉 戳 [学习](/portfolio)、[爱好](http://github.com/huxpro)、[旅游](https://zhuanlan.zhihu.com/p/21280918)。 
+一些学习作品和开源项目，👉 戳 [学习](/portfolio)、[爱好](https://meteart.github.io)、[旅游](https://meteart.github.io)。 
 
 
 ##### Talks
